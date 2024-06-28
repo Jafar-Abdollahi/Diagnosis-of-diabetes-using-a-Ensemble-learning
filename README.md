@@ -1,7 +1,7 @@
 # Diagnosis-of-diabetes-using-a-Ensemble-learning
 <h2> Methods </h2>
 In this project, Ensemble learning algorithms with a combination of hybrid feature selection are used to more accurately diagnose and predict diabetes. The results show that the proposed method has a higher performance than the basic methods and has reached 93% accuracy.
-<img src=https://github.com/Jafar-Abdollahi/Diagnosis-of-diabetes-using-a-Ensemble-learning/blob/main/images.png">
+<img src="https://github.com/Jafar-Abdollahi/Diagnosis-of-diabetes-using-a-Ensemble-learning/blob/main/images.png">
 
 <h2> Suggested method </h2>
 The use of machine learning technology has become increasingly popular in recent years, as machine learning is the science that computers learn without integrating programming using training data that is already trainable. In this paper, we use a group learning approach that proposes a reinforcement algorithm to improve the prediction accuracy of diabetes mellitus. Before using this method, we use a hybrid feature selection approach to find features that have more variance in the rapid diagnosis of diabetes, to obtain prediction accuracy using hybrid feature selection results.
